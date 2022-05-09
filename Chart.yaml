@@ -1,0 +1,9 @@
+apiVersion: v2
+name: atlas
+description: A Chart Example 1
+
+type: application
+version: 0.0.1
+
+# This is the Datadog Agent version
+appVersion: 0.0.1

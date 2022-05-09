@@ -1,0 +1,9 @@
+apiVersion: v2
+name: datadog-cluster-agent
+description: A Chart Example 2
+
+type: application
+version: 0.0.1
+
+# This is the Datadog Agent version
+appVersion: 0.0.1
